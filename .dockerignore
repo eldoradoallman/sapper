@@ -1,0 +1,9 @@
+.git/
+.gitignore
+sapper/__sapper__/
+sapper/cypress
+sapper/node_modules/
+.dockerignore
+Dockerfile
+docker-compose.yml
+nginx/                # We'll create this directory soon
